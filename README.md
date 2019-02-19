@@ -13,7 +13,7 @@ The task is hopefully not too difficult but will involve you in some of the key 
 
 ## The Endpoint
 
-You can make a request to the following endpoint to grab the job descriptions. No authentication is required...
+You can make a request to the following endpoint to grab the job descriptions. No authentication is required, just specify the header content type as application/json ...
 
 http://ciivsoft.getsandbox.com/jobs
 
