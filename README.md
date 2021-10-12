@@ -29,6 +29,6 @@ It would be great if you could really show off and process the job descriptions 
 
 Please feel free to use any Python libraries, databases, programming methods etc you feel best showcase your skills.
 
-If possible, please upload your solution and output data to a public git repository, and email the details over to info@ciivhub.com so we can take a look.
+If possible, please upload your solution and output data to a public git repository, and email the details over to info@ciivsoft.com so we can take a look.
 
 Thanks in advance and happy coding :)
