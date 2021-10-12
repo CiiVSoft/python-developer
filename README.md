@@ -21,6 +21,10 @@ http://ciivsoft.getsandbox.com/jobs
 
 You will find a text file in this repo called skills.txt containing twelve skills we would like you to look for.
 
+## Bonus Points
+
+It would be great if you could really show off and process the job descriptions in parallel on multiple cores, using Python's multiprocessing library.
+
 ## And Finally...
 
 Please feel free to use any Python libraries, databases, programming methods etc you feel best showcase your skills.
